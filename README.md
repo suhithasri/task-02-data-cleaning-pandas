@@ -36,6 +36,21 @@ The complete Python code is available in:
 
 `Task_02_Data_Cleaning.ipynb`
 
+## Dataset Output
+The cleaned dataset contains:
+
+- 9,800 rows
+- 18 columns
+- Duplicate rows removed
+- Missing values handled
+- Order Date and Ship Date converted to datetime format
+
+The cleaned dataset is available as:
+
+`cleaned_superstore.csv`
+
+> Note: GitHub may not display the full CSV preview because of its file size. The complete cleaning process and outputs are available in the Jupyter Notebook.
+
 ## Conclusion
 
 The dataset was successfully cleaned and prepared for further analysis. Missing values were handled, duplicate records were checked, and date columns were converted to the appropriate datetime data type.
